@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vexcodee&label=Profile%20views&color=0e75b6&style=flat" alt="vexcodee" /> </p>
 
-- 🌱 I’m currently learning **Machinę learning, Deep learning, Data scientists**
+- 🌱 I’m currently learning **Machine learning, Data scientists, Data analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VexCodee](https://github.com/VexCodee)
 
-- 📫 How to reach me **fkasperkiewiczpl@gmail.com**
+- 📫 How to reach me **fkasperkiewiczz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
